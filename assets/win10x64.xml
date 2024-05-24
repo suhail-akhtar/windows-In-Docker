@@ -458,6 +458,12 @@
                 </SynchronousCommand>
             </FirstLogonCommands>
         </component>
+        <component name="Microsoft-Windows-International-Core" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <SystemLocale>en-US</SystemLocale>
+            <UILanguage>en-US</UILanguage>
+            <UserLocale>en-US</UserLocale>
+            <InputLocale>0409:00020409</InputLocale>
+        </component>
     </settings>
     <cpi:offlineImage cpi:source="wim:e:/cpba_x64fre_en-us_dv9/sources/install.wim#Windows 10 Pro" xmlns:cpi="urn:schemas-microsoft-com:cpi" />
 </unattend>
