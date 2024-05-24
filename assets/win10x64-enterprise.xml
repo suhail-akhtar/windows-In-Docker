@@ -356,10 +356,7 @@
         <HideOEMRegistrationScreen>true</HideOEMRegistrationScreen>
         <HideOnlineAccountScreens>true</HideOnlineAccountScreens>
         <HideWirelessSetupInOOBE>true</HideWirelessSetupInOOBE>
-        <NetworkLocation>Home</NetworkLocation>
         <ProtectYourPC>3</ProtectYourPC>
-        <SkipUserOOBE>true</SkipUserOOBE>
-        <SkipMachineOOBE>true</SkipMachineOOBE>
       </OOBE>
       <RegisteredOrganization>Dockur</RegisteredOrganization>
       <RegisteredOwner>Windows for Docker</RegisteredOwner>
@@ -466,5 +463,11 @@
         </SynchronousCommand>
       </FirstLogonCommands>
     </component>
+     <component name="Microsoft-Windows-International-Core" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <SystemLocale>en-US</SystemLocale>
+            <UILanguage>en-US</UILanguage>
+            <UserLocale>en-US</UserLocale>
+            <InputLocale>0409:00020409</InputLocale>
+        </component>
   </settings>
 </unattend>
